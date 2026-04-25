@@ -11,7 +11,7 @@ const GithubIcon = () => (
 const EcosystemLinks = [
   {
     icon: <Droplets style={{ width: 20, height: 20 }} />,
-    text: "Antigravity Faucet",
+    text: "GenLayer Faucet",
     href: "https://testnet-faucet.genlayer.foundation/",
   },
   {
