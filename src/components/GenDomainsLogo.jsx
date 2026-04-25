@@ -37,8 +37,8 @@ const EcosystemLinks = [
   },
   {
     icon: <GithubIcon />,
-    text: "GenLayer Simulator",
-    href: "https://github.com/yeagerai/genlayer-simulator",
+    text: "GenLayer GitHub",
+    href: "https://github.com/genlayerlabs",
   },
 ];
 
